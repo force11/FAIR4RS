@@ -7,12 +7,13 @@ Welcome to this working group!
 ![Contributions welcome](https://img.shields.io/badge/contributions-welcome-orange.svg)
 [![GitHub Issues](https://img.shields.io/github/issues/force11/FAIR4RS.svg)](https://github.com/force11/FAIR4RS/issues)
 [![GitHub pull requests](https://img.shields.io/github/issues-pr/force11/FAIR4RS)](https://github.com/force11/FAIR4RS/pulls)
-[![Members](https://img.shields.io/badge/👫-+10_members-1d10.svg?style=flat)](https://www.rd-alliance.org/node/69317/members)
+[![Members](https://img.shields.io/badge/👫-+100_members-1d10.svg?style=flat)](https://www.rd-alliance.org/node/69317/members)
 [![Code of Conduct](https://img.shields.io/badge/👩‍-1_code_of_conduct-1d1.svg?style=flat)](https://www.rd-alliance.org/rda-code-conduct-and-how-report-breach)
 
 
 #### Status: Working group case statement not yet submitted
 #### Chair(s): Michelle Barker, Paula Andrea Martinez, Leyla Garcia, Daniel S. Katz, Neil Chue Hong
+#### Steering Committee: Chairs, Morane Gruenpeter, Fotis Psomopoulos, Jennifer Harrow, Mateusz Kuzak
 #### Secretariat Liaison: Stefanie Kethers
 
 ## Description
