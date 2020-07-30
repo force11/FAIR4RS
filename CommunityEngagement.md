@@ -1,5 +1,8 @@
 # Community Engagement and Outreach activities of the FAIR4RS WG
 
+We welcome your input on events/activities relevant to present the work of the FAIR4RS WG.
+You can help by adding new events/activities, help writing a submission, presenting or facilitating at a session, spreading the word and attending these events.
+
 ## 2020
 
 | Event    |     Dates     |  Details |SubmissionDeadline|   Leader     |  Contributors |
