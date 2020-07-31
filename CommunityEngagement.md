@@ -9,6 +9,7 @@ You can help by adding new events/activities, help writing a submission, present
 |----------|--------------:|---------:|------------------------|------------------:|--------------|---------------|
 | CarpentryCon@HOME| 30 Jul| Make Your Tools, Scripts and Analyses Open and more FAIR| [proposal](https://2020.carpentrycon.org/schedule/#session-52), [workshop etherpad](https://pad.carpentries.org/cchome-FAIR-software)|30 June| Mateusz Kuzak |   |
 | [US-RSE workshop, as part of PEARC20](https://us-rse.org/events/2020/2020-07-pearc20)| 31 Jul| virtual, cost to register, *Accepted*| [slides](https://docs.google.com/presentation/d/1Z47fcaUc6Mtg4MAQVsn63ORyNM27NU3uE3pScICMVEw/present) | 17 Jul | Daniel S. Katz | all steering committee members |
+| [ELIXIR Workshop on FAIR Computational Workflows](https://eccb2020.info/ntbew01-workshop-on-fair-computational-workflows/)| 02 Sep | Short talk on FAIR4RS| x| 30 June | Mateusz Kuzak | |
 | [FSCI](https://www.force11.org/fsci/2020)     | 3-13 Aug     | Lightning talk submission     | | 25 July    | Michelle Barker       |
 | [NZ RSE 2020](https://www.rseconference.nz/)  | 9-11 Sept    | Lightning talk submission     | | 3 August   | Michelle Barker       |
 | [ADSA](https://academicdatascience.org/adsa-meetings/annual-meeting) | 14-16 Oct| virtual, free                      | | 20 July                                                                         | Daniel S. Katz | all steering committee members |
