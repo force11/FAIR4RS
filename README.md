@@ -14,8 +14,9 @@ Welcome to this working group!
 #### Status: Recognised & Endorse (September 2020)
 #### Chair(s): Michelle Barker, Paula Andrea Martinez, Leyla Garcia, Daniel S. Katz, Neil Chue Hong
 #### Steering Committee: Chairs, Morane Gruenpeter, Fotis Psomopoulos, Jennifer Harrow, Carlos Martinez
-**Former members **
+**Former members**
 Mateusz Kuzak from March 2020 - October 2020
+
 #### Secretariat Liaison: Stefanie Kethers
 
 ## Description
