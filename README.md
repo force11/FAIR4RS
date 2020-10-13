@@ -27,6 +27,15 @@ Software has become essential for research. To improve the findability, accessib
 
 Application of the FAIR principles to software will continue to advance the aims of the open science movement. The FAIR For Research Software Working Group (FAIR4RS WG) will be jointly convened as an RDA Working Group, FORCE11 Task Force, and Research Software Alliance (ReSA) Taskforce, in recognition of the importance of this work for the advancement of the research sector. FAIR4RS WG will enable coordination of a range of existing community-led discussions on how to define and effectively apply FAIR principles to research software, to achieve adoption of these principles.
 
+### Subgroups
+
+As of June 2020, we have started 4 subgroups to build towards the first working group milestone:
+
+* [A fresh look at FAIR for Research Software](subgroups/subgroup1.md)
+* [FAIR work in other contexts](subgroups/subgroup2.md)
+* [Research software definition](subgroups/subgroup3.md)
+* [Review of new research related to FAIR Software](subgroups/subgroup4.md)
+
 ## Useful Links
 
 #### RDA WG [https://www.rd-alliance.org/groups/fair-4-research-software-fair4rs-wg](https://www.rd-alliance.org/groups/fair-4-research-software-fair4rs-wg)
