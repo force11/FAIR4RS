@@ -11,9 +11,11 @@ Welcome to this working group!
 [![Code of Conduct](https://img.shields.io/badge/👩‍-1_code_of_conduct-1d1.svg?style=flat)](https://www.rd-alliance.org/rda-code-conduct-and-how-report-breach)
 
 
-#### Status: Working group case statement not yet submitted
+#### Status: Recognised & Endorse (September 2020)
 #### Chair(s): Michelle Barker, Paula Andrea Martinez, Leyla Garcia, Daniel S. Katz, Neil Chue Hong
-#### Steering Committee: Chairs, Morane Gruenpeter, Fotis Psomopoulos, Jennifer Harrow, Mateusz Kuzak
+#### Steering Committee: Chairs, Morane Gruenpeter, Fotis Psomopoulos, Jennifer Harrow, Carlos Martinez
+**Former members **
+Mateusz Kuzak from March 2020 - October 2020
 #### Secretariat Liaison: Stefanie Kethers
 
 ## Description
