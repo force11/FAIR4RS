@@ -5,6 +5,8 @@ You can help by adding new events/activities, help writing a submission, present
 
 ## 2020
 
+all - refers to all the Steering Committee members
+
 | Event    |     Dates     |  Details |Submission, Presentation|Submission Deadline|   Leader     |  Contributors | 
 |----------|--------------:|---------:|------------------------|------------------:|--------------|---------------|
 | CarpentryCon@HOME| 30 Jul| Make Your Tools, Scripts and Analyses Open and more FAIR| [proposal](https://2020.carpentrycon.org/schedule/#session-52), [workshop etherpad](https://pad.carpentries.org/cchome-FAIR-software)|30 June| Mateusz Kuzak |   |
@@ -14,9 +16,9 @@ You can help by adding new events/activities, help writing a submission, present
 | [ELIXIR Workshop on FAIR Computational Workflows](https://eccb2020.info/ntbew01-workshop-on-fair-computational-workflows/)| 2 Sep | Short talk on FAIR4RS| x| 30 June | Mateusz Kuzak | |
 | [NZ RSE 2020](https://www.rseconference.nz/)  | 9-11 Sept    | Lightning talk submission     | | 3 August   | Michelle Barker       |
 | [ADSA](https://academicdatascience.org/adsa-meetings/annual-meeting) | 14-16 Oct| virtual, free                      | | 20 July                                                                         | Daniel S. Katz | all steering committee members |
-| [RDA Virtual Plenary 16](https://www.rd-alliance.org/call-sessions-open-virtual-plenary-16)| 9-13 Nov| virtual,  Working group session                          | | 4 August                                     | Paula Andrea Martinez |
-| [RDA Virtual Plenary 16](https://www.rd-alliance.org/call-sessions-open-virtual-plenary-16) | 9-13 Nov| virtual, BoF                           | | 4 August                                                                               | Michelle Barker       |
-| [International FAIR Convergence Seminar Symposium](https://www.go-fair.org/events/international-fair-convergence-symposium/)  | 22-23 Nov| Paris and virtual, free, ReSA submission on FAIR software roadmap (also RDA  BoF)          | | 30 Sept                             | Michelle Barker       |
+| [RDA Virtual Plenary 16](https://www.rd-alliance.org/call-sessions-open-virtual-plenary-16) [RDAVP16 Program](https://rd-alliance.org/rdas-16th-plenary-meeting-programme) | 9-13 Nov| virtual,  Working group session                          | | 4 August                                     | Paula Andrea Martinez | all
+| [RDA Virtual Plenary 16 call](https://www.rd-alliance.org/call-sessions-open-virtual-plenary-16) [RDAVP16 Program](https://rd-alliance.org/rdas-16th-plenary-meeting-programme) | 9-13 Nov| virtual, BoF                           | | 4 August                                                                               | Michelle Barker       | all and guests
+| [International FAIR Convergence Seminar Symposium](https://www.go-fair.org/events/international-fair-convergence-symposium/)  | 22-23 Nov| Paris and virtual, free, ReSA submission on FAIR software roadmap (also RDA  BoF)          | | 30 Sept                             | Michelle Barker       | Paula Andrea Martinez
 | [AGU Fall meeting](https://www.agu.org/fall-meeting) Theme: shaping the future of Science| 1-17 Dec 2020| cost to submit and to register. Session "FAIR Data is not Enough: Communicating Data Quality and Making Analytical Code FAIR". Similar to ADSA Submission                        | [abstract](https://agu.confex.com/agu/fm20/prelim.cgi/Paper/668348) | 29 July      | Daniel S. Katz    |          all steering committee members |
-| [SORSE20](https://sorse.github.io/programme/call-for-contributions/)   | Late 2020| virtual, Workshop         | | Rolling deadline, end of each month |  Mateusz Kuzak         ||
+| [SORSE20](https://sorse.github.io/programme/call-for-contributions/)   | Late 2020| virtual, Workshop         | | Rolling deadline, end of each month |  Mateusz Kuzak         |all |
 | Work with other RDA groups                                                                                             | ongoing               | Continuous interactions                          | |   all| all                                                       |                       |
