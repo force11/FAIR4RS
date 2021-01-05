@@ -3,6 +3,28 @@
 We welcome your input on events/activities relevant to present the work of the FAIR4RS WG.
 You can help by adding new events/activities, help writing a submission, presenting or facilitating at a session, spreading the word and attending these events.
 
+## 2021
+
+all - refers to all the Steering Committee members
+
+| Event    |     Dates     |  Details |Submission, Presentation|Submission Deadline|   Leader     |  Contributors | 
+|----------|--------------:|---------:|------------------------|------------------:|--------------|---------------|
+|Open FAIR4RS Steering Committee meeting |11 Jan 2021|FAIR4RS community members are welcome to attend|Agenda|[register here (add link)]()|Michelle Marker|all|
+||Feb 2021||||||
+||Feb 2021||||||
+||Mar 2021||||||
+||Apr 2021||||||
+||May 2021||||||
+||Jun 2021||||||
+||Jul 2021||||||
+||Aug 2021||||||
+||Sep 2021||||||
+||Oct 2021||||||
+||Nov 2021||||||
+||Dec 2021||||||
+||||||||
+||||||||
+
 ## 2020
 
 all - refers to all the Steering Committee members
