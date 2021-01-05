@@ -9,8 +9,8 @@ all - refers to all the Steering Committee members
 
 | Event    |     Dates     |  Details |Submission, Presentation|Submission Deadline|   Leader     |  Contributors | 
 |----------|--------------:|---------:|------------------------|------------------:|--------------|---------------|
-|Open FAIR4RS Steering Committee meeting |11 Jan 2021|FAIR4RS community members are welcome to attend|Agenda|[register here (add link)]()|Michelle Marker|all|
-||Feb 2021||||||
+|Public FAIR4RS Steering Committee planing meeting |11 Jan 2021|FAIR4RS community members are welcome to attend|Agenda|[register here (add link)]()|Michelle Marker|all|
+|FAIR4RS community meeting |3 Feb 2021|call to all FAIR4RS community members|Agenda |[register here (add link)]()|all|all|
 ||Feb 2021||||||
 ||Mar 2021||||||
 ||Apr 2021||||||
