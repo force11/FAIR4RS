@@ -11,7 +11,7 @@ all - refers to all the Steering Committee members
 |----------|--------------:|---------:|------------------------|------------------:|--------------|---------------|
 |Public FAIR4RS Steering Committee planing meeting |11 Jan 2021|FAIR4RS community members are welcome to attend|Agenda|[register here (add link)]()|Michelle Marker|all|
 |FAIR4RS community meeting "Drafting the FAIR4RS principles"|3 Feb 2021|call to all FAIR4RS community members|Agenda |[register here (add link)]()|all|all|
-||Feb 2021||||||
+|eResearch NZ 2021 |12 Feb 2021|BOF accepted|[Program](https://www.eresearchnz2021.org.nz/social-programme/)|4 Dec 2020|Michelle Marker|all|
 ||Mar 2021||||||
 ||Apr 2021||||||
 ||May 2021||||||
