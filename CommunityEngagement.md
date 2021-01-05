@@ -14,9 +14,9 @@ all - refers to all the Steering Committee members
 |eResearch NZ 2021 |12 Feb 2021|BOF accepted. All sessions will be hybrid (In person and online)|[Program](https://www.eresearchnz2021.org.nz/social-programme/) [rego](https://www.eresearchnz2021.org.nz/registration/)|4 Dec 2020|Michelle Marker|all|
 |[“How FAIR are you”](https://www.cineca-project.eu/news-events-all/how-fair-are-you-webinar-series-and-hackathon) Webinar Series organised by the CINECA project. FAIR Software tools |24 Feb 2021|have a look at similar events|Presentation|[talk description and rego](https://www.cineca-project.eu/news-events-all/fair-software-tools)|Carlos Martinez|all|
 |Collaborations Workshop 2021 [Call for submissions](https://www.software.ac.uk/news/call-submissions-collaborations-workshop-2021)|30 Mar 2021 to 1 Apr 2021|Mini-workshops or  demo sessions|in preparation|31 Jan 2021|Michelle Marker|all|
-||Apr 2021||||||
+|RDA Plenary 17 [Call for sessions](https://www.rd-alliance.org/rdas-17th-plenary-call-sessions)|20-23 Apr 2021|In preparation|Group meeting|26 Jan 2021|Fotis Psomopoulos | all|
 ||May 2021||||||
-||Jun 2021||||||
+|LIBER 2021 Online: Libraries and Open Knowledge: from vision to implementation [Call for Papers](https://liberconference.eu/liber-2021-online-call-for-papers/)|23-25 Jun 2021|In preparation|presentation|18 Jan 2021|Leyla Garcia|all|
 ||Jul 2021||||||
 ||Aug 2021||||||
 ||Sep 2021||||||
