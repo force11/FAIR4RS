@@ -17,7 +17,7 @@ all - refers to all the Steering Committee members
 |Collaborations Workshop 2021 [Call for submissions](https://www.software.ac.uk/news/call-submissions-collaborations-workshop-2021)|30 Mar 2021 to 1 Apr 2021|Mini-workshops or  demo sessions|in preparation|31 Jan 2021|Michelle Marker|all|
 |RDA Plenary 17 [Call for sessions](https://www.rd-alliance.org/rdas-17th-plenary-call-sessions)|20-23 Apr 2021|In preparation|Group meeting|26 Jan 2021|Fotis Psomopoulos | all|
 ||May 2021||||||
-|LIBER 2021 Online: Libraries and Open Knowledge: from vision to implementation [Call for Papers](https://liberconference.eu/liber-2021-online-call-for-papers/)|23-25 Jun 2021|In preparation|presentation|18 Jan 2021|Leyla Garcia|all|
+|LIBER 2021 Online: Libraries and Open Knowledge: from vision to implementation [Call for Papers](https://liberconference.eu/liber-2021-online-call-for-papers/)|23-25 Jun 2021|Submitter: Contribution ID  : 112, "FAIR and open access for research software" |presentation|18 Jan 2021|Leyla Garcia|all|
 ||Jul 2021||||||
 ||Aug 2021||||||
 ||Sep 2021||||||
