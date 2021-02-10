@@ -23,7 +23,7 @@ all - refers to all the Steering Committee members
 |Collaborations Workshop 2021 "FAIRsFAIR report - FAIRness of Software"|30 Mar 2021|presentation|||Morane Guenpeter|FAIRsFAIR|
 |Collaborations Workshop 2021 "What are the advantages of FAIR research software?"|30 Mar 2021|Discussion session|||Alejandra Gonzalez-Beltran|Paula A. Martinez - all|
 |RDA Plenary 17 [Call for sessions](https://www.rd-alliance.org/rdas-17th-plenary-call-sessions)|20-23 Apr 2021|Submitted|Group meeting|26 Jan 2021|Fotis Psomopoulos | all|
-||May 2021||||||
+|Utrecht University "FAIR Software"|27 May 2021|Locally organised Applied Data Science and R cafe|Presentation|[details](https://www.uu.nl/en/events/fair-software)|Anna-Lena Lamprecht||
 |LIBER 2021 Online: Libraries and Open Knowledge: from vision to implementation [Call for Papers](https://liberconference.eu/liber-2021-online-call-for-papers/)|23-25 Jun 2021|Submitted Contribution ID: 112, "FAIR and open access for research software" |presentation|18 Jan 2021|Leyla Garcia|all|
 ||Jul 2021||||||
 ||Aug 2021||||||
