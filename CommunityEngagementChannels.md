@@ -16,6 +16,7 @@ ReSA: Research Software Alliance
 SC: Steering Committee
 WG: Working Group
 
+## Get involved!
 
 ## 1. FAIR for Research Software (FAIR4RS) WG
 To be a member of the FAIR4RS community people only need to declare their interest by joining the group. First, join RDA for free https://www.rd-alliance.org/user/register, then join the group https://www.rd-alliance.org/node/69317 to receive updates (click “Join Group” once logged in).
