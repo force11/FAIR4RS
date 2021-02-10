@@ -7,10 +7,17 @@ Welcome to this working group!
 ![Contributions welcome](https://img.shields.io/badge/contributions-welcome-orange.svg)
 [![GitHub Issues](https://img.shields.io/github/issues/force11/FAIR4RS.svg)](https://github.com/force11/FAIR4RS/issues)
 [![GitHub pull requests](https://img.shields.io/github/issues-pr/force11/FAIR4RS)](https://github.com/force11/FAIR4RS/pulls)
-[![Members](https://img.shields.io/badge/👫-+100_members-1d10.svg?style=flat)](https://www.rd-alliance.org/node/69317/members)
+[![Members](https://img.shields.io/badge/👫-+150_members-1d10.svg?style=flat)](https://www.rd-alliance.org/node/69317/members)
 [![Code of Conduct](https://img.shields.io/badge/👩‍-1_code_of_conduct-1d1.svg?style=flat)](https://www.rd-alliance.org/rda-code-conduct-and-how-report-breach)
 
+## Useful Links
 
+#### RDA WG [https://www.rd-alliance.org/groups/fair-4-research-software-fair4rs-wg](https://www.rd-alliance.org/groups/fair-4-research-software-fair4rs-wg)
+#### FORCE11 Github [https://github.com/force11/FAIR4RS](https://github.com/force11/FAIR4RS)
+#### [Get involved!](https://github.com/force11/FAIR4RS/blob/master/CommunityEngagementChannels.md)
+#### [Join/Lead/Promote events about FAIR4RS](https://github.com/force11/FAIR4RS/blob/master/CommunityEngagement.md)
+
+## About the group
 #### Status: Recognised & Endorse (September 2020)
 #### Chair(s): Michelle Barker, Paula Andrea Martinez, Leyla Garcia, Daniel S. Katz, Neil Chue Hong
 #### Steering Committee: Chairs, Morane Gruenpeter, Fotis Psomopoulos, Jennifer Harrow, Carlos Martinez
@@ -30,13 +37,8 @@ Application of the FAIR principles to software will continue to advance the aims
 ### Subgroups
 
 As of June 2020, we have started 4 subgroups to build towards the first working group milestone:
-
+https://github.com/force11/FAIR4RS/blob/master/CommunityEngagementChannels.md
 * [A fresh look at FAIR for Research Software](subgroups/subgroup1.md)
 * [FAIR work in other contexts](subgroups/subgroup2.md)
 * [Research software definition](subgroups/subgroup3.md)
 * [Review of new research related to FAIR Software](subgroups/subgroup4.md)
-
-## Useful Links
-
-#### RDA WG [https://www.rd-alliance.org/groups/fair-4-research-software-fair4rs-wg](https://www.rd-alliance.org/groups/fair-4-research-software-fair4rs-wg)
-#### FORCE11 Github [https://github.com/force11/FAIR4RS](https://github.com/force11/FAIR4RS)
