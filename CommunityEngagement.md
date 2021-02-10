@@ -7,9 +7,10 @@ You can help by adding new events/activities, help writing a submission, present
 
 all - refers to all the Steering Committee members
 
-| Event    |     Dates     |  Details |Submission, Presentation|Submission Deadline|   Leader     |  Contributors | 
+| Event    |     Dates     |  Details |Submission, Presentation|Notes|   Leader     |  Contributors | 
 |----------|--------------:|---------:|------------------------|------------------:|--------------|---------------|
 |Public FAIR4RS Steering Committee planing meeting |11 Jan 2021|FAIR4RS community members are welcome to attend|Agenda|See minutes folder|Michelle Marker|all|
+|GO FAIR US "FAIR & Research Software" |14 Jan 2021|FAIR4RS community members are welcome to attend|Presentation |[Link to slides, video and abstract](https://gofair.us/events/2021-01-14-fair-research-software.html)|Anna-Lena Lamprecht||
 |FAIR4RS town hall preparation|19 Jan 2021|FAIR4RS community members are welcome to attend|Agenda||SC|all|
 |PIDapalooza 2021: PIDs for software - shedding some light on a dark puzzle| 27 Jan 2021|Current practices of software identification, including use cases and identifier schemes from different academic domains and in industry to show the complex puzzle of identifying software. We will ask you for the help to estimate their impact and move forward in community adoption.|An interactive overview|[register here](https://pidapalooza2021.sched.com/event/gCze/pids-for-software-shedding-some-light-on-a-dark-puzzle)|Morane Guenpeter and Daniel S. Katz|Software Source Code Identification IG|
 |FAIR4RS Town Hall |2 Feb 2021|call to all FAIR4RS community members|Agenda |[Slides](https://docs.google.com/presentation/d/1zguC4B8M_ssSdOBpLjeX0aVBJuxy0vek7G4D4bOpi3g/edit#slide=id.gab40f73f94_0_0)|all|all|
