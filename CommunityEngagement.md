@@ -7,18 +7,25 @@ You can help by adding new events/activities, help writing a submission, present
 
 all - refers to all the Steering Committee members
 
-| Event    |     Dates     |  Details |Submission, Presentation|Submission Deadline|   Leader     |  Contributors | 
+| Event    |     Dates     |  Details |Submission, Presentation|Notes|   Leader     |  Contributors | 
 |----------|--------------:|---------:|------------------------|------------------:|--------------|---------------|
-|Public FAIR4RS Steering Committee planing meeting |11 Jan 2021|FAIR4RS community members are welcome to attend|Agenda|[register here](https://zoom.us/meeting/register/tJwofu6spz0vE9eXDa9Sr6ZUjdSgCyBJS3t9)|Michelle Marker|all|
-|FAIR4RS town hall|19 Jan 2021|FAIR4RS community members are welcome to attend|Agenda||SC|all|
+|Public FAIR4RS Steering Committee planing meeting |11 Jan 2021|FAIR4RS community members are welcome to attend|Agenda|See minutes folder|Michelle Marker|all|
+|GO FAIR US "FAIR & Research Software" |14 Jan 2021|FAIR4RS community members are welcome to attend|Presentation |[Link to slides, video and abstract](https://gofair.us/events/2021-01-14-fair-research-software.html)|Anna-Lena Lamprecht||
+|FAIR4RS town hall preparation|19 Jan 2021|FAIR4RS community members are welcome to attend|Agenda||SC|all|
 |PIDapalooza 2021: PIDs for software - shedding some light on a dark puzzle| 27 Jan 2021|Current practices of software identification, including use cases and identifier schemes from different academic domains and in industry to show the complex puzzle of identifying software. We will ask you for the help to estimate their impact and move forward in community adoption.|An interactive overview|[register here](https://pidapalooza2021.sched.com/event/gCze/pids-for-software-shedding-some-light-on-a-dark-puzzle)|Morane Guenpeter and Daniel S. Katz|Software Source Code Identification IG|
-|FAIR4RS community meeting "Drafting the FAIR4RS principles" |2 Feb 2021|call to all FAIR4RS community members|Agenda |[register here](https://zoom.us/meeting/register/tJwvdu6ppjMuGNEbw1Br7haKD3svfpwv_ztS)|all|all|
-|eResearch NZ 2021 |12 Feb 2021|BOF accepted. All sessions will be hybrid (In person and online)|[Program](https://www.eresearchnz2021.org.nz/social-programme/) [rego](https://www.eresearchnz2021.org.nz/registration/)|4 Dec 2020|Giorgina Rae|Michelle Marker|
+|FAIR4RS Town Hall |2 Feb 2021|call to all FAIR4RS community members|Agenda |[Slides](https://docs.google.com/presentation/d/1zguC4B8M_ssSdOBpLjeX0aVBJuxy0vek7G4D4bOpi3g/edit#slide=id.gab40f73f94_0_0)|all|all|
+|Public FAIR4RS Steering Committee planing meeting |08 Feb 2021|FAIR4RS community members are welcome to attend|Agenda|See minutes folder|Carlos Martinez|all|
+|eResearch NZ 2021 |11 Feb 2021|BOF accepted. All sessions will be hybrid (In person and online)|[Program](https://www.eresearchnz2021.org.nz/social-programme/) [rego](https://www.eresearchnz2021.org.nz/registration/)|[Summary will be added here]|Giorgina Rae|Michelle Marker|
 |[Xpert Network](https://sites.udel.edu/xpert-cdi/) Panel - [best practices for data intensive applications](https://sites.udel.edu/xpert-cdi/calendar_event/xpert-network-panel-best-practices-for-data-intensive-applications/)|18 Feb, 2021|bi-monthly panels and workshops 2 PM ET (on the third Thursday of the month).|Invitation to be panellist|accepted|Daniel S. Katz|Carlos Martinez|
 |[“How FAIR are you”](https://www.cineca-project.eu/news-events-all/how-fair-are-you-webinar-series-and-hackathon) Webinar Series organised by the CINECA project. FAIR Software tools |24 Feb 2021|have a look at similar events|Presentation|[talk description and rego](https://www.cineca-project.eu/news-events-all/fair-software-tools)|Carlos Martinez|all|
-|Collaborations Workshop 2021 [Call for submissions](https://www.software.ac.uk/news/call-submissions-collaborations-workshop-2021)|30 Mar 2021 to 1 Apr 2021|Mini-workshops or  demo sessions|in preparation|31 Jan 2021|Michelle Marker|all|
-|RDA Plenary 17 [Call for sessions](https://www.rd-alliance.org/rdas-17th-plenary-call-sessions)|20-23 Apr 2021|In preparation|Group meeting|26 Jan 2021|Fotis Psomopoulos | all|
-||May 2021||||||
+|Public FAIR4RS Steering Committee planing meeting |08 Marc 2021|FAIR4RS community members are welcome to attend|Agenda|See minutes folder||all|
+|Collaborations Workshop 2021 [Call for submissions](https://www.software.ac.uk/news/call-submissions-collaborations-workshop-2021)|30 Mar 2021 to 1 Apr 2021|Mini-workshops or  demo sessions|in preparation|Submitted|Michelle Marker|all|
+|Collaborations Workshop 2021 Keynote FAIR 4 RS|30 Mar 2021|presentation|||Michelle Marker|all|
+|Collaborations Workshop 2021 "interactive introduction to the FAIR4RS discussion"|30 Mar 2021|mini workshop (30 min)|||Anna-Lena Lamprecht||
+|Collaborations Workshop 2021 "FAIRsFAIR report - FAIRness of Software"|30 Mar 2021|presentation|||Morane Guenpeter|FAIRsFAIR|
+|Collaborations Workshop 2021 "What are the advantages of FAIR research software?"|30 Mar 2021|Discussion session|||Alejandra Gonzalez-Beltran|Paula A. Martinez - all|
+|RDA Plenary 17 [Call for sessions](https://www.rd-alliance.org/rdas-17th-plenary-call-sessions)|20-23 Apr 2021|Submitted|Group meeting|26 Jan 2021|Fotis Psomopoulos | all|
+|Utrecht University "FAIR Software"|27 May 2021|Locally organised Applied Data Science and R cafe|Presentation|[details](https://www.uu.nl/en/events/fair-software)|Anna-Lena Lamprecht||
 |LIBER 2021 Online: Libraries and Open Knowledge: from vision to implementation [Call for Papers](https://liberconference.eu/liber-2021-online-call-for-papers/)|23-25 Jun 2021|Submitted Contribution ID: 112, "FAIR and open access for research software" |presentation|18 Jan 2021|Leyla Garcia|all|
 ||Jul 2021||||||
 ||Aug 2021||||||
