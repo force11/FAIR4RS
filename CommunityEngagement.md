@@ -30,7 +30,7 @@ all - refers to all the Steering Committee members
 ||Jul 2021||||||
 ||Aug 2021||||||
 ||Sep 2021||||||
-||Oct 2021||||||
+|CLEI2021. [CfP](https://clei2021.cr/assets/pdf/CFP_documento01_revisio%CC%81n.pdf)|25-29 Oct 2021|Latinamerican conference on informatics, symposium on Software Engineering|Presentation|Submission deadline on the 25th of April|Leyla Jael G. Castro|Possibly Paula Martínez and Carlos Martínez|
 ||Nov 2021||||||
 ||Dec 2021||||||
 ||||||||
