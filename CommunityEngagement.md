@@ -29,7 +29,7 @@ all - refers to all the Steering Committee members
 |LIBER 2021 Online: Libraries and Open Knowledge: from vision to implementation [Call for Papers](https://liberconference.eu/liber-2021-online-call-for-papers/)|23-25 Jun 2021|Submitted Contribution ID: 112, "FAIR and open access for research software" |presentation|18 Jan 2021|Leyla Garcia|all|
 ||Jul 2021||||||
 ||Aug 2021||||||
-||Sep 2021||||||
+|IEEE eScience [CfW](https://www.escience2021.org/call-for-workshops)| 20-23 Sep 2021| IEEE eScience | Open discussion workshop | Submission deadline 15th of March | Leyla Jael G. Castro | Steering Committee |
 |CLEI2021. [CfP](https://clei2021.cr/assets/pdf/CFP_documento01_revisio%CC%81n.pdf)|25-29 Oct 2021|Latinamerican conference on informatics, symposium on Software Engineering|Presentation|Submission deadline on the 25th of April|Leyla Jael G. Castro|Possibly Paula Martínez and Carlos Martínez|
 ||Nov 2021||||||
 ||Dec 2021||||||
