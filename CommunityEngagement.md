@@ -25,7 +25,8 @@ all - refers to all the Steering Committee members
 |Collaborations Workshop 2021 [Agenda](https://www.software.ac.uk/cw21/agenda)"How FAIR is your research software?"|30 Mar 2021|Mini-workshop (30 min)||||Carlos Martinez-Ortiz and Faruk Diblen (Netherlands eScience Center)||
 |Collaborations Workshop 2021 [Agenda](https://www.software.ac.uk/cw21/agenda)"Tips and traps on the road to FAIR software principles"|31 Mar 2021|Mini-workshop (30 min)|||Patricia Herterich (DCC, University of Edinburgh) and Morane Gruenpeter (Software Heritage)||
 |Collaborations Workshop 2021 [Agenda](https://www.software.ac.uk/cw21/agenda)"What are the advantages of FAIR research software?"|30 Mar 2021|Discussion session|||Alejandra Gonzalez-Beltran and Leyla Garcia|Paula A. Martinez - all|
-|RDA Plenary 17 [Accepted](https://www.rd-alliance.org/group/fair-research-software-fair4rs-wg/post/rda-virtual-plenary-17-notification-acceptance)|20-23 Apr 2021|Accepted|Group meeting|26 Jan 2021|Fotis Psomopoulos | all|
+|Public FAIR4RS Steering Committee planing meeting |12 Apr 2021|FAIR4RS community members are welcome to attend|Agenda|See minutes folder||all|
+|RDA Plenary 17 [Accepted](https://www.rd-alliance.org/group/fair-research-software-fair4rs-wg/post/rda-virtual-plenary-17-notification-acceptance)|21 Apr 2021|Accepted|Group meeting|26 Jan 2021|Fotis Psomopoulos | all|
 |Utrecht University "FAIR Software"|27 May 2021|Locally organised Applied Data Science and R cafe|Presentation|[details](https://www.uu.nl/en/events/fair-software)|Anna-Lena Lamprecht||
 |LIBER 2021 Online: Libraries and Open Knowledge: from vision to implementation [Call for Papers](https://liberconference.eu/liber-2021-online-call-for-papers/)|23-25 Jun 2021|Submitted Contribution ID: 112, "FAIR and open access for research software" |presentation|18 Jan 2021|Leyla Garcia|all|
 ||Jul 2021||||||
