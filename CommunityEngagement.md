@@ -9,7 +9,7 @@ all - refers to all the Steering Committee members
 
 | Event    |     Dates     |  Details |Submission, Presentation|Notes|   Leader     |  Contributors | 
 |----------|--------------:|---------:|------------------------|------------------:|--------------|---------------|
-|Public FAIR4RS Steering Committee planing meeting |11 Jan 2021|FAIR4RS community members are welcome to attend|Agenda|See minutes folder|Michelle Barker|all|
+|Public FAIR4RS Steering Committee planing meeting |11 Jan 2021|FAIR4RS community members are welcome to attend|Agenda|See [minutes folder](https://github.com/force11/FAIR4RS/tree/master/meetings/2021)|Michelle Barker|all|
 |GO FAIR US "FAIR & Research Software" |14 Jan 2021|FAIR4RS community members are welcome to attend|Presentation |[Link to slides, video and abstract](https://gofair.us/events/2021-01-14-fair-research-software.html)|Anna-Lena Lamprecht||
 |FAIR4RS town hall preparation|19 Jan 2021|FAIR4RS community members are welcome to attend|Agenda||SC|all|
 |PIDapalooza 2021: PIDs for software - shedding some light on a dark puzzle| 27 Jan 2021|Current practices of software identification, including use cases and identifier schemes from different academic domains and in industry to show the complex puzzle of identifying software. We will ask you for the help to estimate their impact and move forward in community adoption.|An interactive overview|[slides](https://zenodo.org/record/4473481) and [video](https://www.youtube.com/watch?v=vToTJzf_bJc) |Morane Guenpeter and Daniel S. Katz|Software Source Code Identification IG|
