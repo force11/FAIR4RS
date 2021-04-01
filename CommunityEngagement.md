@@ -23,7 +23,7 @@ all - refers to all the Steering Committee members
 |Public FAIR4RS Steering Committee planing meeting |08 Mar 2021|FAIR4RS community members are welcome to attend|Discussion, strategic planning|See [minutes folder](https://github.com/force11/FAIR4RS/tree/master/meetings/2021)|Neil Chue Hong|all|
 |Collaborations Workshop 2021 [Agenda](https://www.software.ac.uk/cw21/agenda) Keynote FAIR4RS|30 Mar 2021|Keynote presentation||[Video](https://www.youtube.com/watch?v=8viA4y1pz_8)(First 30 minutes)|Michelle Barker|all|
 |Collaborations Workshop 2021 [Agenda](https://www.software.ac.uk/cw21/agenda)"Interactive introduction to the FAIR4RS discussion"|30 Mar 2021|Mini-workshop (30 min)|||Anna-Lena Lamprecht and Michelle Barker||
-|Collaborations Workshop 2021 [Agenda](https://www.software.ac.uk/cw21/agenda)"How FAIR is your research software?"|30 Mar 2021|Mini-workshop (30 min)||||Carlos Martinez-Ortiz and Faruk Diblen||
+|Collaborations Workshop 2021 [Agenda](https://www.software.ac.uk/cw21/agenda)"How FAIR is your research software?"|30 Mar 2021|Mini-workshop (30 min)|||Carlos Martinez-Ortiz and Faruk Diblen||
 |Collaborations Workshop 2021 [Agenda](https://www.software.ac.uk/cw21/agenda)"Tips and traps on the road to FAIR software principles"|31 Mar 2021|Mini-workshop (30 min)|||Patricia Herterich and Morane Gruenpeter ||
 |Collaborations Workshop 2021 [Agenda](https://www.software.ac.uk/cw21/agenda)"What are the advantages of FAIR research software?"|30 Mar 2021|Discussion session|||Leyla Garcia|Paula A. Martinez - all|
 |Public FAIR4RS Steering Committee planing meeting |12 Apr 2021|FAIR4RS community members are welcome to attend|Agenda|See minutes folder||all|
@@ -31,7 +31,7 @@ all - refers to all the Steering Committee members
 |Utrecht University "FAIR Software"|27 May 2021|Locally organised Applied Data Science and R cafe|Presentation|[details](https://www.uu.nl/en/events/fair-software)|Anna-Lena Lamprecht||
 |[FSCI 2021](https://www.force11.org/fsci/2021)|27 Jul, 29 Jul, 03 Aug 2021|Course accepted|Course||Leyla Garcia|ELIXIR Tools Platform/Best Practices: Allegra Via, Fotis Psomopoulos, Eva Martin del Pico, Jose Mª Fernández, Dimitrios Bampalikis|
 ||Aug 2021||||||
-|IEEE eScience [CfW](https://www.escience2021.org/call-for-workshops)| 20-23 Sep 2021| IEEE eScience | Open discussion workshop | Submission deadline 15th of March | Leyla Jael G. Castro | Steering Committee |
+|IEEE eScience [CfW](https://www.escience2021.org/call-for-workshops)| 20 Sep 2021| IEEE eScience | Open discussion workshop | [workshop info](https://researchsoft.github.io/FAIReScience/) | Leyla Jael G. Castro | Steering Committee |
 |CLEI2021. [CfP](https://clei2021.cr/assets/pdf/CFP_documento01_revisio%CC%81n.pdf)|25-29 Oct 2021|Latinamerican conference on informatics, symposium on Software Engineering|Presentation|Submission deadline on the 25th of April|Leyla Jael G. Castro|Paula Martinez and Carlos Martínez|
 ||Nov 2021||||||
 ||Dec 2021||||||
