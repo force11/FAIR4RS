@@ -23,7 +23,7 @@ all - refers to all the Steering Committee members
 |Public FAIR4RS Steering Committee planing meeting |08 Mar 2021|FAIR4RS community members are welcome to attend|Discussion, strategic planning|See [minutes folder](https://github.com/force11/FAIR4RS/tree/master/meetings/2021)|Neil Chue Hong|all|
 |Collaborations Workshop 2021 [Agenda](https://www.software.ac.uk/cw21/agenda) Keynote FAIR4RS|30 Mar 2021|Keynote presentation||[Video](https://www.youtube.com/watch?v=8viA4y1pz_8)(First 30 minutes)|Michelle Barker|all|
 |Collaborations Workshop 2021 [Agenda](https://www.software.ac.uk/cw21/agenda)"Interactive introduction to the FAIR4RS discussion"|30 Mar 2021|Mini-workshop (30 min)|||Anna-Lena Lamprecht and Michelle Barker||
-|Collaborations Workshop 2021 [Agenda](https://www.software.ac.uk/cw21/agenda)"How FAIR is your research software?"|30 Mar 2021|Mini-workshop (30 min)|||Carlos Martinez-Ortiz and Faruk Diblen||
+|Collaborations Workshop 2021 [Agenda](https://www.software.ac.uk/cw21/agenda)"How FAIR is your research software?"|30 Mar 2021|Mini-workshop (30 min)|Workshop|[Slides](https://doi.org/10.6084/m9.figshare.14339546.v1)|Faruk Diblen|Carlos Martinez-Ortiz|
 |Collaborations Workshop 2021 [Agenda](https://www.software.ac.uk/cw21/agenda)"Tips and traps on the road to FAIR software principles"|31 Mar 2021|Mini-workshop (30 min)|||Patricia Herterich and Morane Gruenpeter ||
 |Collaborations Workshop 2021 [Agenda](https://www.software.ac.uk/cw21/agenda)"What are the advantages of FAIR research software?"|30 Mar 2021|Discussion session|||Leyla Garcia|Paula A. Martinez - all|
 |Public FAIR4RS Steering Committee planing meeting |12 Apr 2021|FAIR4RS community members are welcome to attend|Agenda|See minutes folder||all|
