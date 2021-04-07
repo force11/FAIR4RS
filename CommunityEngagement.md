@@ -28,6 +28,7 @@ all - refers to all the Steering Committee members
 |Collaborations Workshop 2021 [Agenda](https://www.software.ac.uk/cw21/agenda)"What are the advantages of FAIR research software?"|30 Mar 2021|Discussion session|||Leyla Garcia|Paula A. Martinez - all|
 |Public FAIR4RS Steering Committee planing meeting |12 Apr 2021|FAIR4RS community members are welcome to attend|Agenda|See minutes folder||all|
 |RDA Plenary 17 [Accepted](https://www.rd-alliance.org/group/fair-research-software-fair4rs-wg/post/rda-virtual-plenary-17-notification-acceptance)|21 Apr 2021|Accepted|[Group meeting](https://www.rd-alliance.org/group/fair-research-software-fair4rs-wg/event/fair4rs-group-session-rda-vp17)||Fotis Psomopoulos | all|
+|AAHEP: The 11th Summit of Information Providers in Astronomy, Astrophysics and High Energy Physics: "Status of defining FAIRprinciples for software" |6 May 2021| By invitation|talk|[Agenda](https://indico.cern.ch/event/848365/)|Daniel Katz, et all|all|
 |Utrecht University "FAIR Software"|27 May 2021|Locally organised Applied Data Science and R cafe|Presentation|[details](https://www.uu.nl/en/events/fair-software)|Anna-Lena Lamprecht||
 |[FSCI 2021](https://www.force11.org/fsci/2021)|27 Jul, 29 Jul, 03 Aug 2021|Course accepted|Course||Leyla Garcia|ELIXIR Tools Platform/Best Practices: Allegra Via, Fotis Psomopoulos, Eva Martin del Pico, Jose Mª Fernández, Dimitrios Bampalikis|
 ||Aug 2021||||||
