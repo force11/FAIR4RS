@@ -42,3 +42,5 @@ As of June 2020, we have started 4 subgroups to build towards the first working 
 * [FAIR work in other contexts](subgroups/subgroup2.md)
 * [Research software definition](subgroups/subgroup3.md)
 * [Review of new research related to FAIR Software](subgroups/subgroup4.md)
+
+### Contributors
