@@ -33,7 +33,6 @@ all - refers to all the Steering Committee members
 |[FSCI 2021](https://www.force11.org/fsci/2021)|27 Jul, 29 Jul, 03 Aug 2021|Course accepted|Course||Leyla Garcia|ELIXIR Tools Platform/Best Practices: Allegra Via, Fotis Psomopoulos, Eva Martin del Pico, Jose Mª Fernández, Dimitrios Bampalikis|
 ||Aug 2021||||||
 |IEEE eScience [CfW](https://www.escience2021.org/call-for-workshops)| 20 Sep 2021| IEEE eScience | Open discussion workshop | [workshop info](https://researchsoft.github.io/FAIReScience/) | Leyla Jael G. Castro | Steering Committee |
-|CLEI2021. [CfP](https://clei2021.cr/assets/pdf/CFP_documento01_revisio%CC%81n.pdf)|25-29 Oct 2021|Latinamerican conference on informatics, symposium on Software Engineering|Presentation|Submission deadline on the 25th of April|Leyla Jael G. Castro|Paula Martinez and Carlos Martínez|
 ||Nov 2021||||||
 ||Dec 2021||||||
 ||||||||
