@@ -39,7 +39,7 @@ all - refers to all the Steering Committee members
 |ESIP Summer Meeting Session: Best Practices for FAIR Research Software|19 Jul 2021 (TBC)||||Michelle Barker, Sandra Gesing, Lorraine Hwang, Paula Martinez|all|
 |[FSCI 2021](https://www.force11.org/fsci/2021)|27 Jul, 29 Jul, 03 Aug 2021|Course accepted|Course||Leyla Garcia|ELIXIR Tools Platform/Best Practices: Allegra Via, Fotis Psomopoulos, Eva Martin del Pico, Jose Mª Fernández, Dimitrios Bampalikis|
 |Public FAIR4RS Steering Committee planing meeting |09 Aug 2021|FAIR4RS community members are welcome to attend|[Register here](https://us02web.zoom.us/meeting/register/tZYld-qgrT0oGtX4LrzD3U5zWLNL_ydA_xco)|[See minutes folder](https://github.com/force11/FAIR4RS/tree/master/meetings/2021)|all|all|
-||Aug 2021||||||
+|FAIR research software in the Nordics|30 Aug 2021||||Leyla Garcia, Carlos Martinez, Paula Martinez|all|
 |Public FAIR4RS Steering Committee planing meeting |13 Sep 2021|FAIR4RS community members are welcome to attend|[Register here](https://us02web.zoom.us/meeting/register/tZYld-qgrT0oGtX4LrzD3U5zWLNL_ydA_xco)|[See minutes folder](https://github.com/force11/FAIR4RS/tree/master/meetings/2021)|all|all|
 |IEEE eScience [CfW](https://www.escience2021.org/call-for-workshops)| 20 Sep 2021| IEEE eScience | Open discussion workshop | [workshop info](https://researchsoft.github.io/FAIReScience/) | Leyla Jael G. Castro | Steering Committee |
 |Public FAIR4RS Steering Committee planing meeting |11 Oct 2021|FAIR4RS community members are welcome to attend|[Register here](https://us02web.zoom.us/meeting/register/tZYld-qgrT0oGtX4LrzD3U5zWLNL_ydA_xco)|[See minutes folder](https://github.com/force11/FAIR4RS/tree/master/meetings/2021)|all|all|
