@@ -13,12 +13,12 @@ Welcome to this working group!
 ## Useful Links
 
 #### RDA WG [https://www.rd-alliance.org/groups/fair-4-research-software-fair4rs-wg](https://www.rd-alliance.org/groups/fair-4-research-software-fair4rs-wg)
-#### FORCE11 Github [https://github.com/force11/FAIR4RS](https://github.com/force11/FAIR4RS)
+#### FORCE11 on GitHub [https://github.com/force11/FAIR4RS](https://github.com/force11/FAIR4RS)
 #### [Get involved!](https://github.com/force11/FAIR4RS/blob/master/CommunityEngagementChannels.md)
 #### [Join/Lead/Promote events about FAIR4RS](https://github.com/force11/FAIR4RS/blob/master/CommunityEngagement.md)
 
 ## About the group
-#### Status: Recognised & Endorse (September 2020)
+#### Status: Recognised & Endorsed (September 2020)
 #### Chair(s)/Steering Committee:
 Michelle Barker, Paula Andrea Martinez, Leyla Garcia, Daniel S. Katz, Neil Chue Hong
 
