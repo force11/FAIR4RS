@@ -5,6 +5,10 @@
 The  FAIR for Research Software (FAIR4RS) working group was jointly convened as an RDA WG, FORCE11 WG, and ReSA Taskforce in 2020. The FAIR4RS WG works in recognition of the role that software plays for the advancement of the research sector. https://www.rd-alliance.org/groups/fair-research-software-fair4rs-wg
 The following communications and engamente channels span various platforms in order to reach our wide online community. Most of these are visible to the public, creating an account on such platforms will enable members to provide feedback/comments/editing rights to interact with this Working Group.
 
+To encourage you to learn more about our working group these two short overviews will give you a glance of the work done so far.
+- Woodley, Lou, Pratt, Katie, Kobilka, Sara, & Martinez, Paula Andrea. (2021). CSCCE Community Profile: The FAIR for Research Software (FAIR4RS) Working Group. Zenodo. https://doi.org/10.5281/zenodo.5019939
+- Katz, Daniel S., Barker, Michelle, Chue Hong, Neil P., Castro, Leyla Jael, & Martinez, Paula Andrea. (2021, June 28). The FAIR4RS team: Working together to make research software FAIR. 2021 Collegeville Workshop on Scientific Software - Software Teams (Collegeville2021). https://doi.org/10.5281/zenodo.5037157
+
 To ask questions we encourage you to send an email to paula [at] researchsoft [dot] org.
 This document has been prepared by Paula A. Martinez and reviewed by the Steering Committee. 
 
