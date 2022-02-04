@@ -69,9 +69,7 @@ all - refers to all the Steering Committee members
 |Public FAIR4RS Steering Committee planning meeting |08 Nov 2021|FAIR4RS community members are welcome to attend|[Register here](https://us02web.zoom.us/meeting/register/tZYld-qgrT0oGtX4LrzD3U5zWLNL_ydA_xco)|[See minutes folder](https://github.com/force11/FAIR4RS/tree/master/meetings/2021)|all|all|
 |[RSE event at SC21](https://us-rse.org/rse-hpc-2021/) Creating Community, Building Careers, Addressing Challenges|15 Nov 2021|[Super Computing 21](https://sc21.supercomputing.org/) |[BOF on Software Engineering and Reuse in Modeling, Simulation, and Data Analytics for Science and Engineering](https://sc21.supercomputing.org/presentation/?id=bof157&sess=sess399) |[Slides](https://docs.google.com/presentation/d/10K8y2_XNVOR-MLhXZmWNCy_pDpqwXVKSkrdHP4Ufgw0/present) and [recording](https://drive.google.com/file/d/1v-Zz8-K4sjBICGghWAnlrndVhIT0i24C/view)|Michelle Barker|Michelle Barker|
 |Public FAIR4RS Steering Committee planning meeting |13 Dec 2021|FAIR4RS community members are welcome to attend|[Register here](https://us02web.zoom.us/meeting/register/tZYld-qgrT0oGtX4LrzD3U5zWLNL_ydA_xco)|[See minutes folder](https://github.com/force11/FAIR4RS/tree/master/meetings/2021)|all|all|
-||Dec 2021||||||
-||||||||
-||||||||
+
 
 ## 2020
 
