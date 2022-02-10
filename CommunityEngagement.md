@@ -8,10 +8,11 @@ You can help by adding new events/activities, help writing a submission, present
 all - refers to all the Steering Committee members.
 Please note this year events are ordered with the **most recent at the top**.
 
-| Event    |     Dates     |  Details |Submission, Presentation|Notes|   Leader     |  Contributors | 
+| Event    |     Dates     |  Details |Submission, Presentation|Notes              |   Leader     |  Contributors | 
 |----------|--------------:|---------:|------------------------|------------------:|--------------|---------------|
 ||||||||
-|Public FAIR4RS meeting |14 March 2022|FAIR4RS community members are welcome to attend|[see event](https://www.rd-alliance.org/group/fair-research-software-fair4rs-wg/event/fair4rs-meeting-march-2022)|[See minutes folder](https://github.com/force11/FAIR4RS/tree/master/meetings/2022)|all|all|
+|Public FAIR4RS meeting |14 Mar 2022|FAIR4RS community members are welcome to attend|[see event](https://www.rd-alliance.org/group/fair-research-software-fair4rs-wg/event/fair4rs-meeting-march-2022)|[See minutes folder](https://github.com/force11/FAIR4RS/tree/master/meetings/2022)|all|all|
+|[SIAM PP22](https://www.siam.org/conferences/cm/conference/pp22) | 23 Feb 2022 | Conference talk: "FAIR Research Software as a Step Towards Better Research" | [session](https://meetings.siam.org/sess/dsp_programsess.cfm?sessioncode=73127), [abstract](https://meetings.siam.org/sess/dsp_talk.cfm?p=117784) | slides (to be added) | Daniel S. Katz | all |
 |Public FAIR4RS meeting |14 Feb 2022|FAIR4RS community members are welcome to attend|[see event](https://www.rd-alliance.org/group/fair-research-software-fair4rs-wg/event/fair4rs-meeting-february-2022)|[See minutes folder](https://github.com/force11/FAIR4RS/tree/master/meetings/2022)|all|all|
 |Public FAIR4RS meeting |10 Jan 2022|FAIR4RS community members are welcome to attend|[see event](https://www.rd-alliance.org/group/fair-research-software-fair4rs-wg/event/fair4rs-steering-committee-meeting-january-2022)|[See minutes folder](https://github.com/force11/FAIR4RS/tree/master/meetings/2021)|all|all|
 
