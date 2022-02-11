@@ -8,7 +8,7 @@ You can help by adding new events/activities, help writing a submission, present
 all - refers to all the Steering Committee members.
 Please note this year events are ordered with the **most recent at the top**.
 
-| Event    |     Dates     |  Details |Submission, Presentation|Notes              |   Leader     |  Contributors | 
+| Event    |     Dates     |  Details |Submission|Notes, Presentation, Videos              |   Leader     |  Contributors | 
 |----------|--------------:|---------:|------------------------|------------------:|--------------|---------------|
 ||||||||
 |Public FAIR4RS meeting |14 Mar 2022|FAIR4RS community members are welcome to attend|[see event](https://www.rd-alliance.org/group/fair-research-software-fair4rs-wg/event/fair4rs-meeting-march-2022)|[See minutes folder](https://github.com/force11/FAIR4RS/tree/master/meetings/2022)|all|all|
