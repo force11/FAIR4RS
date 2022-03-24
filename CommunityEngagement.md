@@ -11,6 +11,7 @@ Please note this year events are ordered with the **most recent at the top**.
 | Event    |     Dates     |  Details |Submission|Notes, Presentation, Videos              |   Leader     |  Contributors | 
 |----------|--------------:|---------:|------------------------|------------------:|--------------|---------------|
 ||||||||
+|RDA Orgaizational Assembly |21 Mar 2022|RDA Orgaizational Assembly members|by invitation from RDA Secretariat|[Slides](https://doi.org/10.5281/zenodo.6374314)|Neil Chue Hong|all|
 |Public FAIR4RS meeting |14 Mar 2022|FAIR4RS community members are welcome to attend|[see event](https://www.rd-alliance.org/group/fair-research-software-fair4rs-wg/event/fair4rs-meeting-march-2022)|[See minutes folder](https://github.com/force11/FAIR4RS/tree/master/meetings/2022)|all|all|
 |[9th International Open Science Conference](https://www.open-science-conference.eu/) | 8 Mar 2022 | Conference talk: "The overlap between FAIR for Research Software and Open Science" | abstract: see [programme](https://www.open-science-conference.eu/#programme) | [slides](https://doi.org/10.5281/zenodo.6340732), [video](https://youtu.be/67Uc1EEVDv8) | Daniel S. Katz | all |
 |[SIAM PP22](https://www.siam.org/conferences/cm/conference/pp22) | 24 Feb 2022 | Conference talk: "FAIR Research Software as a Step Towards Better Research" | [session](https://meetings.siam.org/sess/dsp_programsess.cfm?sessioncode=73127), [abstract](https://meetings.siam.org/sess/dsp_talk.cfm?p=117784) | [slides](https://doi.org/10.6084/m9.figshare.19175534.v1) | Daniel S. Katz | all |
