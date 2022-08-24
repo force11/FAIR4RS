@@ -10,6 +10,7 @@ Please note this year events are ordered with the **most recent at the top**.
 
 | Event    |     Dates     |  Details |Submission|Notes, Presentation, Videos              |   Leader     |  Contributors | 
 |----------|--------------:|---------:|------------------------|------------------:|--------------|---------------|
+|RDA FDO Fabric |18 Aug 2022|[Invitation](https://www.rd-alliance.org/group/fair-research-software-fair4rs-wg/post/presentation-fair-research-software-rda-fair-digital) |by invitation | [slides](https://doi.org/10.5281/zenodo.7006955)|Daniel S. Katz | all |
 |RDA/ IDW22 FAIR 4 Research Software (FAIR4RS) Outputs And Impact |22 Jun 2022|RDA/ IDW22 hybrid |by invitation |slides | Paula Martinez| All|
 |RDA/ IDW22 FAIR 4 Research Software (FAIR4RS) Outcomes and governance |22 Jun 2022|RDA/ IDW22 hybrid |[abstract](https://www.rd-alliance.org/plenaries/rda-19th-plenary-meeting-part-international-data-week-20%E2%80%9323-june-2022-seoul-south-korea-24]|[slides](https://tinyurl.com/FAIR4RS-VP19) and [Collaborative notes](https://tinyurl.com/FAIR4RS-notes-VP19)| Morane Gruepenter| All|
 |RDA Orgaizational Assembly |21 Mar 2022|RDA Orgaizational Assembly members|by invitation from RDA Secretariat|[Slides](https://doi.org/10.5281/zenodo.6374314)|Neil Chue Hong|all|
