@@ -3,6 +3,15 @@
 We welcome your input on events/activities relevant to present the work of the FAIR4RS WG.
 You can help by adding new events/activities, help writing a submission, presenting or facilitating at a session, spreading the word and attending these events.
 
+## 2023
+
+all - refers to all the Steering Committee members. Please note this year events are ordered with the **most recent at the top**.
+
+| Event    |     Dates     |  Details |Submission|Notes, Presentation, Videos              |   Leader     |  Contributors | 
+|----------|--------------:|---------:|------------------------|------------------:|--------------|---------------|
+|[FAIRPOints / RDA / SciLife Lab](https://www.scilifelab.se/event/fairpoints-fairpoints-ask-me-anything-ama-2/) ‘Ask Me Anything’ on Software and Workflows |21 Feb 2023|event series on FAIR implementation and Open practices in Science, is hosted by FAIRPoints and supported by RDA, EOSC, FDO, GOFAIR-US & SciLifeLab-DataCentre |by invitation|[Notes](https://docs.google.com/document/d/1ci70mXG9CoJ63Iy-X7NnfusBpmDwcemeTjYymHBJ-yc/edit?usp=sharing), [Presentation](https://doi.org/10.5281/zenodo.7660245), [Video](https://www.youtube.com/watch?v=bvA8jiAs5tQ)|Sara El Gebali|Paula Martinez, Carole Globe|
+
+
 ## 2022
 
 all - refers to all the Steering Committee members.
