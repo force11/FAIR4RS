@@ -1,6 +1,14 @@
 # FAIR 4 Research Software (FAIR4RS) WG
 
-This working group has completed its outcomes
+This working group has completed its outcomes. Thanks for your contributions!!!
+The [RDA Software Source Code Interest Group](https://www.rd-alliance.org/groups/software-source-code-ig) is the maintenance home for the principles. Concerns or queries about the principles can be raised at RDA plenary events organised by the SSC IG, where there may be opportunities for adopters to report back on progress.
+
+## Cite the FAIR4RS principles
+1. Barker, M., Chue Hong, N.P., Katz, D.S. et al. Introducing the FAIR Principles for research software. Sci Data 9, 622 (2022). [https://doi.org/10.1038/s41597-022-01710-x](https://doi.org/10.1038/s41597-022-01710-x)
+1. May 24th, 2022. The RDA Council have endorsed the FAIR4RS Principles as an official output!
+Citation and download: Chue Hong, N. P., Katz, D. S., Barker, M., Lamprecht, A-L, Martinez, C., Psomopoulos, F. E., Harrow, J., Castro, L. J., Gruenpeter, M., Martinez, P. A., Honeyman, T., et al. (2022). FAIR Principles for Research Software version 1.0. (FAIR4RS Principles v1.0). Research Data Alliance. DOI: [https://doi.org/10.15497/RDA00068](https://doi.org/10.15497/RDA00068)
+
+
 
 ⭐ Star us on GitHub — it will help you find us again.
 
