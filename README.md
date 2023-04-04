@@ -54,4 +54,8 @@ As of June 2020, we have started 4 subgroups to build towards the first working 
 * [Research software definition](subgroups/subgroup3.md)
 * [Review of new research related to FAIR Software](subgroups/subgroup4.md)
 
-### Contributors
+### Outputs
+See our outputs:
+
+1. [RDA listed Outputs](https://www.rd-alliance.org/node/69317/outputs)
+2. [Zenodo FAIR4RS Community](https://zenodo.org/communities/fair4rs)
